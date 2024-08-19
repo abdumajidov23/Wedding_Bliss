@@ -1,4 +1,4 @@
-const weddingDate = new Date('August 24, 2024 06:43:00').getTime();
+const weddingDate = new Date('August 22, 2024 16:00:00').getTime();
 
 function updateCountdown() {
     const now = new Date().getTime();

@@ -6,7 +6,8 @@ body, html {
     justify-content: center;  
     align-items: center;      
     font-family: 'Arial', sans-serif;
-    background: url('https://static.vecteezy.com/system/resources/previews/022/769/837/non_2x/beautiful-pink-rose-flower-frame-with-watercolor-for-wedding-birthday-card-background-invitation-wallpaper-sticker-decoration-etc-vector.jpg') no-repeat center center fixed; 
+    /* background: url('https://static.vecteezy.com/system/resources/previews/022/769/837/non_2x/beautiful-pink-rose-flower-frame-with-watercolor-for-wedding-birthday-card-background-invitation-wallpaper-sticker-decoration-etc-vector.jpg') no-repeat center center fixed;  */
+    background: url('https://www.gracelanddesign.com/wp-content/uploads/2018/11/Wonderwall-Pop.jpg') no-repeat center center fixed; 
     background-size: cover;
 }
 
